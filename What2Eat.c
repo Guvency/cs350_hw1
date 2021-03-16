@@ -23,7 +23,7 @@ char kebab_C[] = "Kebab";
 char burger_C[] = "Burger";
 char pasta_C[] = "Pasta";
 char lahmacun_C[] = "Lahmacun";
-char salad_C[] = "sSlad";
+char salad_C[] = "Salad";
 int threshold;
 int thresholddan_buyuk_eleman_sayisi = 0;;
 
